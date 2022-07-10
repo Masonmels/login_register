@@ -7,3 +7,5 @@
 - 开启PHPstudy。访问localhost/demo/login.php，即可开启一系列操作。默认管理员账密为"admin admin"，管理员无需注册即可访问admin.php，普通用户需注册方可访问user.php。
 
 后续将会添加CSS。
+
+可能会用推出Java版本。
